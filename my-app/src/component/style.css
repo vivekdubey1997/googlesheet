@@ -1,0 +1,22 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.card{
+    background-color: rgba(128, 128, 128, 0.209);
+    border: 1px solid transparent;
+    transition: all .3s linear;
+}
+
+.card:hover{
+    border: 1px solid tomato;
+}
+ 
+ 
+ .css-et1ao3-MuiTypography-root{
+    font-size: 20px;
+    font-weight: bold;
+}
